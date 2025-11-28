@@ -44,5 +44,3 @@ All expenses are stored in localStorage, so data remains saved even when the pag
 
 ▶ Live Project Link
 
-🔗 StackBlitz Live Link:
-https://stackblitz.com/~/github.com/rakshu112003/Expenses-tracker-system-
