@@ -42,6 +42,4 @@ LocalStorage API
 
 All expenses are stored in localStorage, so data remains saved even when the page is refreshed.
 
-▶ Live Project Link
 
-stackblitz.com/edit/react-simple-code-editor-qky8qykw
